@@ -1,0 +1,1 @@
+docker run --memory="512m" --cpus="1.0" myapp
